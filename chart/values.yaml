@@ -1,5 +1,6 @@
 storageClass:
   enable: true
+  name: ebs-sc
  
 ingressNginx:
   enable: true
