@@ -8,5 +8,5 @@ karpenter:
     aws:
       clusterName: eks-test-mm
       clusterEndpoint: https://16983E7FAC0CFB9D58CE5ED6F24F07C0.gr7.eu-central-1.eks.amazonaws.com
-      defaultInstanceProfile: arn:aws:iam::093899590031:instance-profile/Karpenter-eks-test-mm-20230518151701258800000003
+      defaultInstanceProfile: Karpenter-eks-test-mm-20230518151700090100000002
       interruptionQueueName: Karpenter-eks-test-mm
