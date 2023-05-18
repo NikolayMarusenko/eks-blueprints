@@ -6,8 +6,8 @@ ingressNginx:
   createNamespace: true
   
 externalSecrets:
-  enable: false
-  createNamespace: false
+  enable: true
+  createNamespace: true
   
 tekton:
   enable: false
