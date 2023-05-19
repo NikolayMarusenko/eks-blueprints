@@ -34,5 +34,5 @@ defectdojo:
   createNamespace: false
 
 karpenter:
-  enable: true
-  createNamespace: true
+  enable: false
+  createNamespace: false
